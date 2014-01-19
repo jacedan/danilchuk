@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Promo</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="djfeel">DJ FEEL</string>
+    <string name="DPS">DPS вечеринка 3:Адвайта, Lotos (Pro.form.)</string>
+	<string name="GOGO">КАСТИНГ ГОУ-ГОУ!</string>
+	<string name="Dancehall">Четвертый SIBERIAN DANCEHALL CONTEST</string>
+	<string name="descr">  Здесь будет расположено описание мероприятия</string>
+	
+</resources>

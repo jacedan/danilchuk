@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="crreq" path="crreq"/>
+	<classpathentry kind="var" path="JRE_LIB" sourcepath="JRE_SRC"/>
+	<classpathentry kind="lib" path="C:/111/apache-jmeter-2.10/apache-jmeter-2.10/lib/ext/ApacheJMeter_core.jar"/>
+	<classpathentry kind="lib" path="C:/111/apache-jmeter-2.10/apache-jmeter-2.10/lib/ext/ApacheJMeter_java.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
